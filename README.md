@@ -32,6 +32,8 @@ El objetivo es explicar el modelo mental detrás de COBOL y de los sistemas crí
 
 📘 **[Descargar gratuitamente COBOL para programadores modernos](../../releases/download/V1.0/COBOL.para.programadores.modernos-1ed.pdf)**
 
+![Descargas PDF](https://img.shields.io/github/downloads/dfraiese/cobol-para-programadores-modernos/V1.0/COBOL.para.programadores.modernos-1ed.pdf?label=Descargas%20PDF)
+
 **Autor:** Diego Fraiese  
 **Edición:** 2026  
 **ISBN:** 978-631-01-4850-2
